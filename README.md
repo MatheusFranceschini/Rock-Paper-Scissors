@@ -14,7 +14,8 @@ O desenvilvimento deste App se utilizou dos seguintes conceitos da linguagem de 
 ---
 
 ## 📷 App Screenshots
-> *(Add screenshots here to showcase the app's interface and features.)*
+![Simulator Screenshot - iPhone 15 - 2025-02-04 at 17 36 16](https://github.com/user-attachments/assets/fc082e22-88da-4728-bcf0-08e053fd5aaf)
+
 
 ---
 
