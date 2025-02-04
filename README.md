@@ -45,11 +45,6 @@ The development of this app utilized the following **Swift** programming concept
 
 ---
 
-## 📷 App Screenshots
-> *(Add screenshots here to showcase the app's interface and features.)*
-
----
-
 ## 📲 Feel free to try it out!
 1. Clone this repository:
    ```bash
