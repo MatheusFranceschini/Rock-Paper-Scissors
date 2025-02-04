@@ -4,7 +4,7 @@ Aplicativo móvel desenvolvido para simular um jogo de Pedra, Papel e Tesoura.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tecnologias utilizadas
 O desenvilvimento deste App se utilizou dos seguintes conceitos da linguagem de programação **Swift**:
 
 - **Funções** para melhor estruturação do código
@@ -13,7 +13,7 @@ O desenvilvimento deste App se utilizou dos seguintes conceitos da linguagem de 
 
 ---
 
-## 📷 App Screenshots
+## 📷 Imagens do App
 ![Simulator Screenshot - iPhone 15 - 2025-02-04 at 17 36 16](https://github.com/user-attachments/assets/fc082e22-88da-4728-bcf0-08e053fd5aaf)
 
 
